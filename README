@@ -1,1 +1,9 @@
-this file is based on analysis of medals.csv
+The files included here are:
+- README file
+- medals.csv (databse)
+- Olympic_winter_games_medals.ipynb (jupyter notebook)
+
+Databse "medals.csv" was obtained from webpage www.winterolympicmedals.com/medals.csv .
+Use of this databse are only for educational purposes.
+
+Jupyter notebook "Olympic_winter_games_medals.ipynb" was created using Anaconda with Python 3.
