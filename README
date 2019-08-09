@@ -7,3 +7,5 @@ Databse "medals.csv" was obtained from webpage www.winterolympicmedals.com/medal
 Use of this databse are only for educational purposes.
 
 Jupyter notebook "Olympic_winter_games_medals.ipynb" was created using Anaconda with Python 3.
+
+Please modifiy route of the CSV file on Jupyter notebook according to your personal situation.
